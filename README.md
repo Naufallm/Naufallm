@@ -1,5 +1,7 @@
+
+![dancing-oshi-no-ko](https://github.com/Naufallm/Naufallm/assets/130893000/f40a8a55-90fb-45f2-b0a0-0a6f8f6dd921)
 ### Hi there 👋
-https://github.com/Naufallm/Naufallm/assets/130893000/6c6e38d2-a826-41c2-9f5e-1e99632e70fb
+
 
 <!--
 **Naufallm/Naufallm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
