@@ -1,6 +1,7 @@
 
-![dancing-oshi-no-ko](https://github.com/Naufallm/Naufallm/assets/130893000/f40a8a55-90fb-45f2-b0a0-0a6f8f6dd921)
-### Hi there 👋
+![cat_cats_eyes_cat_face_269574](https://github.com/Naufallm/Naufallm/assets/130893000/a9209399-c270-425b-a6ac-7471a51a0dda)
+
+### A meow or miaow is a cat vocalization. Meows may have diverse tones in terms of their sound, and what's heard can vary from being chattered to calls, murmurs, and whispers. Adult cats rarely meow to each other. Thus, an adult cat meowing to human beings is generally considered a post-domestication extension of meowing by kittens: a call for attention. Felines usually communicate with each other via their shared sense of smell, yet with people they often make verbal cues around behavior, such as having a specific sound indicate a desire to go outside.
 
 
 <!--
