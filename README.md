@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studiying at **University of Muhammadiyah Malang**<br>🌱 I’m currently learning *Java, Python language**<br>👯 I’m looking to collaborate on **UI/UX Designer**<br>📫 How to reach me **an4667112@gmail.com**<br>⚡ Fun fact **Anime Interest**
+🔭 I’m currently studiying at **University of Muhammadiyah Malang**<br>🌱 I’m currently learning *Java**, **Python language**<br>👯 I’m looking to collaborate on **UI/UX Designer**<br>📫 How to reach me **an4667112@gmail.com**<br>⚡ Fun fact **Anime Interest**
 
 
 ## 🌐 Socials:
