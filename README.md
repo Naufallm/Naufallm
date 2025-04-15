@@ -1,21 +1,53 @@
-# 💫 About Me:
-🌱 I’m currently learning **Java**, **Python language**<br>👯 I’m looking to collaborate on **UI/UX Designer**<br>📫 How to reach me **an4667112@gmail.com**<br>⚡ Fun fact **Anime Interest**
+# Hi, I'm Naufal Luthfan! 👋  
 
-
-## 🌐 Socials:
- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaitourae) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Naufallm&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naufallm&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naufallm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Naufallm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Data Science Enthusiast | Python & Java Developer | UI/UX Designer**  
+I’m passionate about uncovering insights from data through analysis, machine learning, and simulations. I also enjoy coding and designing user-friendly experiences. Let’s connect and create something impactful!  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Naufallm&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Contact Me 📬  
+- **Email**: [an465712@gmail.com](mailto:an465712@gmail.com)  
+- **X**: [Follow me!](https://x.com)  
+- **Fun Fact**: I love solving real-world problems with data!  
+
+---
+
+## Tech Stack 🛠️  
+Tools I use for data science and development:  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) 
+
+---
+
+## GitHub Stats 📊  
+A quick look at my contributions:  
+- **Total Commits**: 105  
+- **Total PRs**: 6  
+- **Contributed to (Last Year)**: 1  
+
+### Top Languages  
+![Jupyter Notebook - 43.0%](https://img.shields.io/badge/Jupyter%20Notebook-43.0%25-F37626?style=flat)  
+![Dart - 35.6%](https://img.shields.io/badge/Dart-35.6%25-0175C2?style=flat)  
+![C - 6.2%](https://img.shields.io/badge/C-6.2%25-00599C?style=flat)  
+
+---
+
+## Featured Projects 🌟  
+Here are some of my data science and simulation projects:  
+- **[ELT in Unstructured Data](https://github.com)**  
+  Focused on extracting and transforming unstructured data for analysis.  
+- **[Data-Driven Simulation](https://github.com)**  
+  Developed a simulation model to analyze system performance using real-world data.  
+- **[Operational Bank Simulation](https://github.com)**  
+  Simulated bank operations to optimize queueing systems, inspired by my past work on queueing analysis.  
+
+---
+
+## Let’s Collaborate! 🚀  
+I’m excited to work on data science projects, from data analysis to building simulations. Reach out to me, and let’s build something amazing together!  
+
+![Profile Views](https://komarev.com/ghpvc/?username=naufalluthfan&color=blue)  
