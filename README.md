@@ -1,53 +1,17 @@
-# Hi, I'm Naufal Luthfan! 👋  
-
-**Data Science Enthusiast | Python & Java Developer | UI/UX Designer**  
-I’m passionate about uncovering insights from data through analysis, machine learning, and simulations. I also enjoy coding and designing user-friendly experiences. Let’s connect and create something impactful!  
-
----
-
-## Contact Me 📬  
-- **Email**: [an465712@gmail.com](mailto:an465712@gmail.com)  
-- **X**: [Follow me!](https://x.com)  
-- **Fun Fact**: I love solving real-world problems with data!  
-
----
-
-## Tech Stack 🛠️  
-Tools I use for data science and development:  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) 
-
----
-
-## GitHub Stats 📊  
-A quick look at my contributions:  
-- **Total Commits**: 105  
-- **Total PRs**: 6  
-- **Contributed to (Last Year)**: 1  
-
-### Top Languages  
-![Jupyter Notebook - 43.0%](https://img.shields.io/badge/Jupyter%20Notebook-43.0%25-F37626?style=flat)  
-![Dart - 35.6%](https://img.shields.io/badge/Dart-35.6%25-0175C2?style=flat)  
-![C - 6.2%](https://img.shields.io/badge/C-6.2%25-00599C?style=flat)  
-
----
-
-## Featured Projects 🌟  
-Here are some of my data science and simulation projects:  
-- **[ELT in Unstructured Data](https://github.com)**  
-  Focused on extracting and transforming unstructured data for analysis.  
-- **[Data-Driven Simulation](https://github.com)**  
-  Developed a simulation model to analyze system performance using real-world data.  
-- **[Operational Bank Simulation](https://github.com)**  
-  Simulated bank operations to optimize queueing systems, inspired by my past work on queueing analysis.  
-
----
-
-## Let’s Collaborate! 🚀  
-I’m excited to work on data science projects, from data analysis to building simulations. Reach out to me, and let’s build something amazing together!  
-
-![Profile Views](https://komarev.com/ghpvc/?username=naufalluthfan&color=blue)  
+<h1>Hi 👋, I'm Naufal </h1>
+<p>Data Science Enthusiast</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" />
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/Kaitourae" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/Ahmad Naufal Luthfan Marzuqi" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/_Naufallm" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Naufallm&show_icons=true&locale=en" alt="Naufallm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naufallm&" alt="Naufallm" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naufallm&show_icons=true&locale=en&layout=compact" alt="Naufallm" /></p>
